@@ -47,7 +47,7 @@ Arcade-style boss rush game pak with upgradable weapons, shields, special weapon
 
 | WEAPONS | DEFENSE | SPECIAL | AUDIO |
 |:---:|:---:|:---:|:---:|
-| Upgradable spread shot & rapid fire | Shield + 3 lives | Homing torpedoes | Original synth score |
+| Upgradable spread shot & rapid fire | Shield + 3 lives | Homing torpedoes | Original, Retro-inspired score |
 | Forward-arc heavy fire | Overshield invulnerability | Auto-firing satellites | Dynamic randomized gameplay / boss themes |
 
 </div>
