@@ -11,9 +11,8 @@
 <div align="center">
 
 **Built by SkyWalker541 for the TrimUI Brick w/ NextUI.**
-</div>
-Arcade-style boss rush game pak with upgradable weapons, shields, and a synth soundtrack.
-Built by SkyWalker541 for the TrimUI Brick w/ NextUI.
+
+Arcade-style boss rush game pak with upgradable weapons, shields, special weapons, save/resume, and a synth soundtrack.
 
 </div>
 
@@ -46,9 +45,66 @@ Built by SkyWalker541 for the TrimUI Brick w/ NextUI.
 
 <div align="center">
 
-| WEAPONS | DEFENSE | AUDIO |
-|:---:|:---:|:---:|
-| Upgradable spread shot &amp; rapid fire | Stacking shields | Original synth score |
-| Forward-arc heavy fire | Overshield invulnerability | Dynamic menu / combat / boss themes |
+| WEAPONS | DEFENSE | SPECIAL | AUDIO |
+|:---:|:---:|:---:|:---:|
+| Upgradable spread shot & rapid fire | Shield + 3 lives | Homing torpedoes | Original synth score |
+| Forward-arc heavy fire | Overshield invulnerability | Auto-firing satellites | Dynamic randomized gameplay / boss themes |
+
+</div>
+
+---
+
+## ▸ INSTALLATION
+
+1. Download `StarForce.pak.zip` from the [Releases](https://github.com/YOUR_USERNAME/StarForce/releases) page.
+2. Unzip and copy the `StarForce.pak` folder to your SD card:
+   - For TrimUI Brick with NextUI: `SDCARD/Tools/tg5040/`
+3. Eject the SD card safely and insert it into your TrimUI Brick.
+4. Launch **Star Force** from the Tools tab.
+
+Save data is stored at `/mnt/SDCARD/Saves/StarForce/` and persists across PAK updates.
+
+---
+
+## ▸ CONTROLS
+
+| Button | Action |
+|:---:|:---|
+| **D-Pad** | Move ship |
+| **A** | Shoot / Confirm menu |
+| **B** | Back / Cancel |
+| **X** | Special weapon (torpedoes / satellites) |
+| **Y** | Swap special weapon |
+| **Start** | Open menu |
+| **Select** | Open menu |
+
+All action buttons can be remapped from the in-game **Controls** menu.
+
+---
+
+## ▸ GAMEPLAY
+
+- Fight through waves of enemies and a unique boss every 10 waves.
+- Collect pickups to upgrade weapons, shields, and special gear.
+- Bosses have multiple phases — each more aggressive than the last.
+- Save your run at any time from the pause menu.
+- If you set a new high score, the game automatically sends you to the name-entry screen; otherwise it returns to the title screen after game over.
+
+---
+
+## ▸ CREDITS
+
+- **Code, design & pixel art:** SkyWalker541
+- **Title font:** Merkur
+- **UI font:** SpaceNova
+- **HUD font:** DayDisplay
+- **Gameplay music:** Original, retro-inspired tracks
+- **Built with:** SDL2, OpenGL ES 2.0
+
+---
+
+<div align="center">
+
+*Ten bosses. One handheld. No mercy.*
 
 </div>
