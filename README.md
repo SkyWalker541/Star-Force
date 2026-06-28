@@ -12,7 +12,7 @@
 
 **Built by SkyWalker541 for the TrimUI Brick w/ NextUI.**
 
-Arcade-style boss rush game pak with upgradable weapons, shields, special weapons, save/resume, and a synth soundtrack.
+Arcade-style boss rush game pak with upgradable weapons, shields, special weapons, save/resume, and a retro-inspired soundtrack.
 
 </div>
 
